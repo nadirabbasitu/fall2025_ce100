@@ -100,6 +100,10 @@ scheduleData:
         start: 12:00 PM
         end: 1:30 PM
         location: Programming Lab MP Building
+      - name: Lab
+        start: 2:00 PM
+        end: 5:00 PM
+        location: Programming Lab MP Building
 
   - name: Thursday
     events: []  # Explicitly define an empty list for events
